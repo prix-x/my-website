@@ -1,6 +1,6 @@
-# Macondo 
+# My Personal Website
 
-Welcome to Macondo, my personal website where I showcase my projects and programming work.
+I made this website for Macondo (Hack Club)
 
 - Built using HTML and Tailwind CSS
-- Check out my cyberpunk-themed hardware setups
+- Used to log my coding hours and track progress
