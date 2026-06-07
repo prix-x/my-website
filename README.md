@@ -9,5 +9,5 @@ My personal website telling about my interests, skills, etc.
 * **Design Vibe:** Used`JetBrains Mono` and `Syne`
 * **Hosting:** Netlify
 
-## 🤝 Collaboration & Transparency
+## 🤝Collaboration
 I pushed my own HTML/CSS knowledge as far as I could to write the core structure, then used **Claude AI** to polish the responsive grids and clean up the final layout!
